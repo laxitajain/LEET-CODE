@@ -5,4 +5,4 @@ starting with the basics. <em> (using c++) </em>
 <hr>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/TWO%20SUM.cpp">1. TWO SUM</a><br>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/PALINDROME.cpp">2. PALINDROME</a><br>
-
+<a href="https://github.com/laxitajain/LEET-CODE/blob/main/Single%20Number.py">3. Single Number</a><br>
