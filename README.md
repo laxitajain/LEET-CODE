@@ -10,3 +10,4 @@ starting with the basics. <em> (using c++ and maybe python ocassionally) </em>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/Longest%20Common%20Prefix.cpp">5.Longest Common Prefix</a><br>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/Length%20of%20the%20last%20word.py">6.Length of the last word</a><br>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/Find%20the%20index%20of%20the%20first%20occurrence%20in%20the%20String.py">7.Find the Index of the first Occurrence in a String</a><br>
+<a href="https://github.com/laxitajain/LEET-CODE/blob/main/PLUS%20ONE.py">8.PLUS ONE</a><br>
