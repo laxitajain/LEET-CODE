@@ -1,7 +1,7 @@
 # LEET-CODE
 documenting the solutions of the problems, that I solve on Leet Code, daily.<br>
 starting with the basics. <em> (using c++ and maybe python ocassionally) </em>
-<h3>50 days challenge!✨</h3>
+<h3>DSA Challenge!✨</h3>
 <hr>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/TWO%20SUM.cpp">1. TWO SUM</a><br>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/PALINDROME.cpp">2. PALINDROME</a><br>
@@ -12,3 +12,5 @@ starting with the basics. <em> (using c++ and maybe python ocassionally) </em>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/Find%20the%20index%20of%20the%20first%20occurrence%20in%20the%20String.py">7.Find the Index of the first Occurrence in a String</a><br>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/PLUS%20ONE.py">8.PLUS ONE</a><br>
 <a href="https://github.com/laxitajain/LEET-CODE/blob/main/Power%20Of%20Two.py">9.Power Of Two</a><br>
+<pre>changing gears a bit, and starting with topic-oriented study from now on.</pre><br>
+<a href=""><a><br>
